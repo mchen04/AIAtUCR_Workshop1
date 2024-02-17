@@ -56,4 +56,6 @@ Thank you for participating in our workshop. We hope this README helps you set u
  - Instagram: https://www.instagram.com/ucrai_/  
  - Highlander Link: https://highlanderlink.ucr.edu/organization/ai_at_ucr 
  - LinkedIn: https://www.linkedin.com/company/ai-at-ucr/ 
- 
+
+#### Script with more In-Depth Explanation
+ - https://docs.google.com/document/d/1DZFyE8RZvltkBdzuq8VtBDb110S4A16S-Wr5XswysCI/edit?usp=sharing

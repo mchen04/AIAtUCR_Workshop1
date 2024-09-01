@@ -1,5 +1,8 @@
 # Workshop 1: Tools and Software (PyTorch Installations and Dependencies)
 
+#### Script with more In-Depth Explanation
+ - https://docs.google.com/document/d/1DZFyE8RZvltkBdzuq8VtBDb110S4A16S-Wr5XswysCI/edit?usp=sharing
+
 ## Introduction
 Welcome to the AI Club's first technical workshop focused on PyTorch installations and dependencies. This workshop is designed to lay a strong foundation for your journey in AI, with an emphasis on understanding the basics of PyTorch.
 
@@ -57,5 +60,3 @@ Thank you for participating in our workshop. We hope this README helps you set u
  - Highlander Link: https://highlanderlink.ucr.edu/organization/ai_at_ucr 
  - LinkedIn: https://www.linkedin.com/company/ai-at-ucr/ 
 
-#### Script with more In-Depth Explanation
- - https://docs.google.com/document/d/1DZFyE8RZvltkBdzuq8VtBDb110S4A16S-Wr5XswysCI/edit?usp=sharing
